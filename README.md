@@ -1,3 +1,5 @@
 # Aprendendo_python
 São meus primeiros codigos 
-eu acho fofo eles hj em dia llkkkkkk
+
+os c são pequenas coisa que eu ia aprendendo já o projeto é a junção de todas elas
+
